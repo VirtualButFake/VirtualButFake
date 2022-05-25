@@ -1,6 +1,6 @@
 Hey!
 
-I'm just a ROBLOX developer
-Any projects made before 2021 are utter shit and if you want to preserve your sanity I'd recommend not looking at them
+I'm Virtual, a 17 year old self taught programmer & UI Designer.
+I started my programming adventure when I was just 7 - using simple languages such as Scratch. I then moved on to more complicated languages as time went on & eventually found ROBLOX. I've contributed to several large scale projects and enjoy ROBLOX to this day. 
 
-Rest is (probably?) somewhat okay, but no guarantees
+If you ever want to ask me something or want to commission me, don't hesitate to contact me at Virtual#0021 on Discord.
