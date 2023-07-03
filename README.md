@@ -1,4 +1,1 @@
-i code
-
-proficient in lua(u), js, c++
-also experienced with front end & capable of designing ui
+[![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtualButFake)](https://github.com/anuraghazra/github-readme-stats)
