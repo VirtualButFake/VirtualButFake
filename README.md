@@ -6,7 +6,7 @@ I primarily work on ROBLOX but I'm always trying to expand my range of skills, t
 # Skills
 * Languages
     * Luau
-    * JavaScript
+    * JavaScript (incl. Node)
     * TypeScript
     * C#
     * C++
