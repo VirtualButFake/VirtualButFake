@@ -1,7 +1,7 @@
 # hello
 
 I'm a Dutch developer who does a little bit of everything. I'm a full stack developer with a passion for UI, design & security.
-I primarily work on ROBLOX but I'm always trying to expand my range of skills, trying new things.
+I primarily work on ROBLOX but I'm always trying to expand my range of skills.
 
 # Skills
 * Languages
