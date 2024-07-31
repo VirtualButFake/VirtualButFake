@@ -12,7 +12,7 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
 <br/>
 <sup>_Icons from [Charmed Icons](https://github.com/littensy/charmed-icons) by Littensy_</sup>
 
----
+# <!-- empty header for line -->
 
 <div style="display: flex; flex-direction: row; gap: 8px; align-items: flex-start">
     <picture align=top>
