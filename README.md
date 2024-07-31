@@ -17,7 +17,7 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
 <div style="display: flex; flex-direction: row; gap: 8px; align-items: flex-start">
     <picture align=top>
         <source
-            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&border_color=5C6065&bg_color=0D1117"
+            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&bg_color=0D1117"
             media="(prefers-color-scheme: dark)"
         />
         <source
@@ -28,7 +28,7 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
     </picture>
     <picture align=top>
         <source
-            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&theme=ayu-mirage&layout=compact&border_color=5C6065&bg_color=0D1117"
+            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&theme=ayu-mirage&layout=compact&bg_color=0D1117"
             media="(prefers-color-scheme: dark)"
         />
         <source
