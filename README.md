@@ -14,7 +14,7 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
 
 # <!-- empty header for line -->
 
-<div style="display: flex; flex-direction: row; gap: 8px; align-items: flex-start">
+<div>
     <picture align=top>
         <source
             srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D"
