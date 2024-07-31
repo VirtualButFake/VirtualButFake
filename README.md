@@ -32,9 +32,9 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&count_private=true&include_all_commits=true"
+            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&layout=compact&count_private=true&include_all_commits=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&count_private=true&include_all_commits=true" />
+        <img src="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&layout=compact&count_private=true&include_all_commits=true" />
     </picture>
 </div>
