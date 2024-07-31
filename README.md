@@ -15,7 +15,7 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
 ---
 
 <div style="display: flex; flex-direction: row; gap: 8px; align-items: flex-start">
-    <picture>
+    <picture align=top>
         <source
             srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&border_color=5C6065&bg_color=0D1117"
             media="(prefers-color-scheme: dark)"
@@ -24,9 +24,9 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
             srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&count_private=true&include_all_commits=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&count_private=true&include_all_commits=true" />
+        <img align=top src="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
-    <picture>
+    <picture align=top>
         <source
             srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&theme=ayu-mirage&layout=compact&border_color=5C6065&bg_color=0D1117"
             media="(prefers-color-scheme: dark)"
@@ -35,6 +35,6 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
             srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&layout=compact&count_private=true&include_all_commits=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&layout=compact&count_private=true&include_all_commits=true" />
+        <img align=top src="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&layout=compact&count_private=true&include_all_commits=true" />
     </picture>
 </div>
