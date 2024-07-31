@@ -17,14 +17,14 @@ I'm Tijn, a passionate, self-taught developer from the Netherlands. I'm interest
 <div>
     <picture align=top>
         <source
-            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D"
+            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&theme=github-dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=30363D"
             media="(prefers-color-scheme: dark)"
         />
         <img align=top src="https://github-readme-stats-sigma-jade-12.vercel.app/api?username=virtualbutfake&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
     <picture align=top>
         <source
-            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&theme=ayu-mirage&layout=compact&bg_color=0D1117&border_color=30363D"
+            srcset="https://github-readme-stats-sigma-jade-12.vercel.app/api/top-langs/?username=virtualbutfake&theme=github-dark&layout=compact&bg_color=00000000&border_color=30363D"
             media="(prefers-color-scheme: dark)"
         />
         <source
